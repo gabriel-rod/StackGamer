@@ -32,7 +32,7 @@ namespace ScheduledTask
             {
                 var currentTry = 0;
                 var productApi = new Fetcher.Model.Thief.Product();
-
+                 
                 //https://www.blinkingcaret.com/2018/02/14/net-core-console-logging/
 
                 #region Dependency Injection and Configuration files
